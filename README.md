@@ -44,3 +44,4 @@ At last a graph was plotted between loss function and no. of epochs using matplo
 
 Citation:
 https://jax.readthedocs.io/en/latest/notebooks/quickstart.html
+https://pytorch.org/tutorials/beginner/basics/data_tutorial.html
